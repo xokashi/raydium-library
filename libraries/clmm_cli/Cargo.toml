@@ -24,7 +24,7 @@ spl-token-2022 = { version = "=0.9.0", features = ["no-entrypoint"] }
 solana-client = "^1.18.11"
 solana-sdk = "^1.18.11"
 solana-account-decoder = "^1.18.11"
-solana-transaction-status = "^1.16"
+solana-transaction-status = "^1.18.11"
 anyhow = "1.0.53"
 rand = "0.7.3"
 bytemuck = { version = "1.7.3" }
